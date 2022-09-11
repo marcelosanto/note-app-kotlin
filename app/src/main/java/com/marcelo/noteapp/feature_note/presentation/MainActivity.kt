@@ -1,4 +1,4 @@
-package com.marcelo.noteapp
+package com.marcelo.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
